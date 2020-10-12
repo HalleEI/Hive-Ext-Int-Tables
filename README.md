@@ -4,7 +4,7 @@ RDBMS, CSV file Import To HDFS Plus External, Internal Tables
 MySQL tables imported to HDFS in the directory /user/input/mysqltables
 MsSQL tables imported to HDFS in the directory /user/input/mssqltables
 Postgresql tables imported to HDFS in the directory /user/input/clubpo
-Used SFTP to transfer csv file to HDFS.
+Used SFTP to transfer csv file to GCP.
 Csv files imported to HDFS in the directory /user/input/csvtables 
   
 In hive	 -     Created DB called fitness.
