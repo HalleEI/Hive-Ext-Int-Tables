@@ -17,6 +17,7 @@ sftp> lls
 facilities_202010101920.csv
 sftp> 
   
-In hive	 -     Created DB called fitness.
+In hive	 -     Created DB called extfitness.
 -	Created 3 external tables with schema for my 3 csv files and loaded data into the tables
+        -     Created DB called fitness.
 -	Created 3 internal tables with schema for my 3 csv files and loaded data into the tables
